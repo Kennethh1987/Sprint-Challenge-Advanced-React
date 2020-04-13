@@ -1,5 +1,5 @@
 import React from 'react';
-import DarkMode from '../Hooks./Dakmode';
+import DarkMode from '../Hooks/Dakmode';
 
 
 const CustomHook = () => {
